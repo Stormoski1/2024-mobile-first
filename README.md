@@ -1,2 +1,2 @@
-# 2024-mobile-first
-Exercicio de responsavilidade em HtML E CSS
+# 2024-2B-mobile-first-Resetflix
+exercicio de responsabilidade em HTML e CSS
