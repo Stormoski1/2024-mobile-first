@@ -3,7 +3,7 @@
 @import url(banner.css);
 @import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Raleway:ital,wght@0,100..900;1,100..900&family=Sedan+SC&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Sedan+SC&display=swap');
-
+@import url("carrossel.css");
 :root {
     --vermelho: #e50914;
     --vermelho-escuro: #b81d24;
